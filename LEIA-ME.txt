@@ -1,0 +1,15 @@
+COMO PUBLICAR
+1. Envie TODOS os arquivos .html deste pacote para o GitHub Pages.
+2. Não coloque os QR Codes provisórios na arte ainda.
+3. Depois de publicar, me envie o endereço do site (ex.: https://seunome.github.io/setembro-amarelo/).
+4. Eu gero os 5 QR Codes DEFINITIVOS apontando para cada página.
+
+Páginas:
+alegria.html
+tristeza.html
+ansiedade.html
+raiva.html
+medo.html
+index.html
+
+Cada QR Code definitivo abrirá diretamente a respectiva página, sem WhatsApp e sem pesquisa no Google.
